@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Vipingond
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on fronted project
+- 📫 How to reach me vipingond967@gmail.com
+- 
 
 <!---
 Vipingond/Vipingond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
